@@ -12,15 +12,15 @@ This is a Unity assassin game, your goal is to eliminate the target on the map, 
 
 ## Controls
 
-WASD - Move
-Left Mouse - Attack
-Z - Crouch
-Scroll wheel - Swap weapons
-Shit - Run
-E - Interact
-V - Enable minimap
-F - Recenter Camera
-Space + WASD - Move Camera
+- WASD - Move
+- Left Mouse - Attack
+- Z - Crouch
+- Scroll wheel - Swap weapons
+- Shit - Run
+- E - Interact
+- V - Enable minimap
+- F - Recenter Camera
+- Space + WASD - Move Camera
 
 ## Details
 - Unity 6.2
